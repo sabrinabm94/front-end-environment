@@ -24,4 +24,5 @@
 </head>
 <body>
 	<header class="header">
+		<?php include_once 'menu.php'; ?>
 	</header>
