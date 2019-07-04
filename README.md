@@ -15,11 +15,8 @@ project structure and tasks for the front end development using the task runner 
 ---
 
 # contacts
-sabrinabgbc
+Sivy
 
-sabrinabgbc@email.com | sabrinabmoreira@gmail.com
+sivyboing@gmail.com
 
-noobfrontend.wordpress.com
-
-www.linkedin.com/in/sabrinabmoreira
-
+newcoderslab.wordpress.com
