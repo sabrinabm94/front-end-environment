@@ -1,22 +1,21 @@
 # Repository structure
 
-## default-files
+## Default-files
 files reused in many projects and repositories
 
-## task runners
+## Task runners
 
-### grunt
+### Grunt
 project structure and tasks for the front end development using the task runner grunt, to read more, see readme file inside the directory.
 
 
-### gulp
+### Gulp
 project structure and tasks for the front end development using the task runner gulp, to read more, see readme file inside the directory.
 
 ---
 
-# contacts
-Sivy
+# Contacts
+Sabrina B.
 
-sivyboing@gmail.com
-
-www.thedevblog.com.br
+sabrinabmoreira@gmail.com
+https://www.thedevblog.com.br/
